@@ -11,7 +11,7 @@ def suPassword(chall):
     print 'premd5: ',premd5
     
     md5hash = hashlib.md5()
-    md5hash.update(premd5)
+    md5hash.update(byte(premd5))
     print 'md5: ',md5hash.hexdigest()
     prepass = bytearray(md5hash.digest())
 
