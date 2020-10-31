@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T13:43:13.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="MMwWNZDvvcSRb-WwY-Sg" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-31T13:44:55.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="tzFai-FX0DyEE5nAEsGa" version="13.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -84,8 +84,14 @@
         <mxCell id="qT8zpyYk5oE-bRU9w0GD-39" value="PTCL CHECK THE ISSUE AND RESOLVE IT&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;spacing=5;spacingTop=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="770" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qT8zpyYk5oE-bRU9w0GD-46" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qT8zpyYk5oE-bRU9w0GD-43" target="qT8zpyYk5oE-bRU9w0GD-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qT8zpyYk5oE-bRU9w0GD-43" value="PTCL ISSUE PORTS AND IP DETAILS FOR INTERCONNECTION&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;spacing=5;spacingTop=16;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="552.5" width="157" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="qT8zpyYk5oE-bRU9w0GD-45" value="ADG DONE CIRCUIT DEPLOYEMENT AND TESTING" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#1D3557;verticalAlign=bottom;strokeColor=#457B9D;fillColor=#A8DADC;spacing=5;spacingTop=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="88.5" y="730" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
