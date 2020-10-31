@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T12:47:21.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="7AINVkkV20dbfRh0uUqF" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-31T12:51:21.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="jDTUnybCZXY_p6WYHQGd" version="13.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -39,11 +39,32 @@
         <mxCell id="qT8zpyYk5oE-bRU9w0GD-16" value="Email" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#1D3557;rounded=1;labelBackgroundColor=#F1FAEE;" connectable="0" vertex="1" parent="qT8zpyYk5oE-bRU9w0GD-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qT8zpyYk5oE-bRU9w0GD-25" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qT8zpyYk5oE-bRU9w0GD-18" target="qT8zpyYk5oE-bRU9w0GD-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qT8zpyYk5oE-bRU9w0GD-18" value="&lt;span&gt;ADG SHARE CUSTOMER REQUIRED B/W DETAILS FOR ADVICE NOTE ISSUANCE&amp;nbsp;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="390" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qT8zpyYk5oE-bRU9w0GD-20" value="PTCL ISSUED ADVICE NOTE" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="qT8zpyYk5oE-bRU9w0GD-27" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qT8zpyYk5oE-bRU9w0GD-24" target="qT8zpyYk5oE-bRU9w0GD-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qT8zpyYk5oE-bRU9w0GD-24" value="PTCL ISSUED ADVICE NOTE&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qT8zpyYk5oE-bRU9w0GD-29" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qT8zpyYk5oE-bRU9w0GD-26" target="qT8zpyYk5oE-bRU9w0GD-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qT8zpyYk5oE-bRU9w0GD-26" value="ADG PRODUCEC POC DETAILS FOR SITE SURVEY" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qT8zpyYk5oE-bRU9w0GD-31" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qT8zpyYk5oE-bRU9w0GD-28" target="qT8zpyYk5oE-bRU9w0GD-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qT8zpyYk5oE-bRU9w0GD-28" value="PTCL ISSUE ACCESS PERMISSION" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qT8zpyYk5oE-bRU9w0GD-30" value="" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
